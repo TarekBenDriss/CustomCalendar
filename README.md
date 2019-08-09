@@ -20,9 +20,9 @@ maven { url "http://dl.bintray.com/tarekbendriss/AndroidCustomCalendar"}
 
 2. Go to project app Gradle file and under dependencies , add
 ```sh
-implementation 'com.bendriss.customcalendar:app:1.0.11@aar'
+implementation 'com.bendriss.customcalendar:app:1.0.13@aar'
 ```
-At the time of writing, the latest version of this library is '1.0.11'.
+At the time of writing, the latest version of this library is '1.0.13'.
 3. Sync the project Gradle files.
 ##### Layouts
 
