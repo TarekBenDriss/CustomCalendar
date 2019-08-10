@@ -86,28 +86,28 @@ singleCalendar.getDateAsString();
 For the double calendar, you can get the start day, start month, start year, the start date as a string, the end day, end month, end year and the end date as a string:
 ```sh
 // to get the selected start day
-singleCalendar.getStartDay();
+doubleCalendar.getStartDay();
 
 // to get the selected start month
-singleCalendar.getStartMonth();
+doubleCalendar.getStartMonth();
 
 // to get the selected start year
-singleCalendar.getStartYear();
+doubleCalendar.getStartYear();
 
 // to get the selected start date as a string
-singleCalendar.getStartYear();
+doubleCalendar.getStartDateAsString();
 
 // to get the selected end day
-singleCalendar.getEndDay();
+doubleCalendar.getEndDay();
 
 // to get the selected end month
-singleCalendar.getEndMonth();
+doubleCalendar.getEndMonth();
 
 // to get the selected end year
-singleCalendar.getEndYear();
+doubleCalendar.getEndYear();
 
 // to get the selected end date as a string
-singleCalendar.getEndYear();
+doubleCalendar.getEndDateAsString();
 
 ```
 
