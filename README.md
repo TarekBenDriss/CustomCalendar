@@ -10,9 +10,7 @@ Custom Calendar is an Android library to show a beautiful user-friendly custom c
 
 ### Installation
 
-Dillinger requires [Node.js](https://nodejs.org/) v4+ to run.
-
-Install the dependencies and devDependencies and start the server.
+1. Go to project level Gradle file and under allprojects -> repositories, add
 
 ```sh
 maven { url "http://dl.bintray.com/tarekbendriss/AndroidCustomCalendar"}
